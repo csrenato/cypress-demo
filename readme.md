@@ -1,14 +1,14 @@
 # Cypress Demo in Croatian
 
-This is a demo repo for playing with cypress.io
+### This is a demo repo for playing with cypress.io
 
 The "gherkin" is in Croatian.
 
 Remember to set the following env variables:
 
-WIKI_USERNAME
-WIKI_PASSWORD
-CYPRESS_DASHBOARD_KEY 
+* WIKI_USERNAME
+* WIKI_PASSWORD
+* CYPRESS_DASHBOARD_KEY 
 
 in either:
 
