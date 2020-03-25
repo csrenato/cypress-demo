@@ -1,4 +1,4 @@
-# Cypress Demo in Croatia
+# Cypress Demo in Croatian
 
 This is a demo repo for playing with cypress.io
 
